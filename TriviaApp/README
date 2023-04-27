@@ -1,0 +1,20 @@
+What has been done?
+I have done following tasks
+1. Fetching data from API on the basis of user selection.
+2. Questions are showing on the basis of selection fields like category, difficulty and type.
+3. App is allowing user to select answers of the questions
+4. At the end App is showing total no of correct answers.
+
+What third you used (if any) to do what?
+1. Alomofire
+2. Swifti JSON
+3. iOSDROPDOWN
+
+Any known bugs or issues in the app?
+If Trivia API doest not return response on the selection based, For example if data does not exist against selection criteria, App moved to next empty screen.
+
+Any improvements you see that can be made in the app?
+Yes, if Trivia App return empty response then user should notify on the current screen e-g Questions does not exist etc.
+We can add animations in the App.
+We can improve design
+
